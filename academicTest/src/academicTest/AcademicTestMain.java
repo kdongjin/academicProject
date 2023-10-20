@@ -36,7 +36,7 @@ public class AcademicTestMain {
 					lessonMenu();
 					break;
 				case MENU_CHOICE.TRAINEE:
-				traineeMenu();
+					traineeMenu();
 					break;
 				case MENU_CHOICE.EXIT:
 					System.out.println("프로그램을 종료합니다.");
